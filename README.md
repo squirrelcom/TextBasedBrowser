@@ -1,4 +1,4 @@
-# TextBasedBrowser
+# Text Based Browser
 
 This a text-based web browser where you have the following options:
 ```
