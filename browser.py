@@ -90,7 +90,8 @@ class TextBasedBrowser():
 
     def fetch_page(self, url):
         try:
-            page = requests.get(url)
+            # page = requests.get(url)
+            page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
         except requests.ConnectionError:
             return f"{url} does not exist on Internet"
         return self.parse_page(page.content)
