@@ -12,6 +12,8 @@ This a text-based web browser where you have the following options:
 
 ``` git clone https://github.com/squirrelcom/Squirrel-Navigator.git```
 
+``` pip or pip3 install requirments.txt```
+
 All searches are saved to the file system and then the user can see the saved results by entering only the domain name.
 
 The following packages are installed to the project in the beginning:
