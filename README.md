@@ -10,6 +10,8 @@ This a text-based web browser where you have the following options:
 
 # How to install
 
+paste these commands into your terminal
+
 ``` git clone https://github.com/squirrelcom/Squirrel-Navigator.git```
 
 ``` pip or pip3 install requirments.txt```
