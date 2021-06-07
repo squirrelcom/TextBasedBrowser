@@ -16,13 +16,13 @@ class TextBasedBrowser():
         self.history = deque()
         self.welcome_message = self.color_text("magenta",
                                                '''                                               
-        Welcome to your favourite Text-Based Browser!
+        Welcome to Squirrel-Navigator!!
         
-        Here are the options for you:
+        Here are your options:
         
-            * Enter a URL (e.g. "example.com")
+            * Enter a URL (e.g. "squirrelcom.github.io/seARch/")
             * Enter "back" to go to previous page
-            * Enter just domain name to see saved search (e.g."example" for "example.com")
+            * Enter just domain name to see saved search (e.g."seARch" for "squirrelcom.github.io/seARch/")
             * Enter "exit" to exit the browser
             
         ''')
