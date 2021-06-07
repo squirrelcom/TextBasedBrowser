@@ -14,7 +14,7 @@ paste these commands into your terminal
 
 ``` git clone https://github.com/squirrelcom/Squirrel-Navigator.git```
 
-``` pip or pip3 install requirments.txt```
+``` location of where Squirrel-Navigator is located/Squirrel-Navigator/browser.py```
 
 All searches are saved to the file system and then the user can see the saved results by entering only the domain name.
 
